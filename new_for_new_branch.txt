@@ -1,2 +1,3 @@
 some lines
 for new commit in new branch
+another new line for new branch
